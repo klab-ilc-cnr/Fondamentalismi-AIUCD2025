@@ -1,7 +1,7 @@
 # Narrazioni divergenti: un’analisi linguistica comparativa del discorso mediatico sull’attacco del 7 ottobre 2023
 This repository is relative to the experiments presented as part of the paper "Narrazioni divergenti: un’analisi linguistica comparativa del discorso mediatico sull’attacco del 7 ottobre 2023" submitted to AIUCD 2025 conference. 
 
-The file "corpus.zip" in the "File" section includes the 60 articles analyzed in the paper.
+The file "corpus.zip" includes the 60 articles analyzed in the paper.
 
 The next section reports the result of the experimental text done with a LLM.
 
